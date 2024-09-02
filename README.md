@@ -1,6 +1,6 @@
 # Recomender-Systems
 
-In dieser Übung geht es darum, ein einfaches Empfehlungssystem zu erstellen, das Filme basierend auf ihren Bewertungen miteinander vergleicht und Empfehlungen generiert.
+In dieser Aufgabe geht es darum, ein einfaches Empfehlungssystem zu erstellen, das Filme basierend auf ihren Bewertungen miteinander vergleicht und Empfehlungen generiert.
 
 # Ausfürhung
 
