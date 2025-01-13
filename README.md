@@ -32,3 +32,6 @@ Nach der Ausführung des Codes erhalten Sie eine Liste von Filmen, die in Bezug 
 
 # Binder Badge
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Recomender-Systems/HEAD?labpath=1-Recommender_Systems.ipynb)
+
+# Ausführung Colabs
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Recomender-Systems/blob/main/1-Recommender_Systems.ipynb)
