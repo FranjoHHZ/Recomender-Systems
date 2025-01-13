@@ -34,7 +34,12 @@ Um sinnvolle Empfehlungen zu geben, wird die Liste der ähnlichen Filme gefilter
 
 # Ergbnisse
 
+Ergbnisse fr Filme mit mehr als 100 Bewertungen:
+
 Nach der Ausführung des Codes erhalten Sie eine Liste von Filmen, die in Bezug auf die Nutzerbewertungen am ähnlichsten zu einem ausgewählten Film (z.B. "Star Wars" oder "Liar Liar") sind. Diese Liste zeigt die Korrelationen und die Anzahl der Bewertungen, wodurch Sie nachvollziehen können, welche Filme von den Nutzern ähnlich bewertet wurden. Das einfache Empfehlungssystem gibt somit Empfehlungen basierend auf der Ähnlichkeit der Nutzerbewertungen ab.
 
-![image](https://github.com/user-attachments/assets/97233b21-3375-4dda-91c7-02ca1e4734c2)
+![image](https://github.com/user-attachments/assets/7dbfe755-6f92-4442-92db-1e58f4cd0eb7)
+
+Ergbnisse für die Komödie Liar Liar:
+![image](https://github.com/user-attachments/assets/a7905d74-abc9-48c1-9d27-6ce183c1c51c)
 
