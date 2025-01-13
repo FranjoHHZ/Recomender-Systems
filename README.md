@@ -2,7 +2,10 @@
 
 In dieser Aufgabe geht es darum, ein einfaches Empfehlungssystem zu erstellen, das Filme basierend auf ihren Bewertungen miteinander vergleicht und Empfehlungen generiert.
 
-# Ausfürhung
+# Ausfürhung in MyBinder
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Recomender-Systems/HEAD?labpath=1-Recommender_Systems.ipynb)
+
 
 Um dieses Jupyter Notebook auszuführen, müssen Sie dem Link des oben genannten Binder-Badges folgen. Öffnen Sie das Notebook „3-Logistische_Regression_Projekt-Loesung.ipynb“. Sobald das Notbook geöffnet wurden, gehen Sie bitte auf den Reiter "Edit" und drücken Sie "Clear Outputs of all Cells". Nachdem Sie das gemacht haben, können Sie auf "Run all Cells" klicken um den Code auszuführen.
 
@@ -23,15 +26,15 @@ Für einen ausgewählten Film (z.B. "Star Wars") wird die Korrelation zwischen d
 Filtern der Ergebnisse:
 Um sinnvolle Empfehlungen zu geben, wird die Liste der ähnlichen Filme gefiltert, sodass nur Filme mit einer ausreichenden Anzahl an Bewertungen (z.B. mehr als 100) berücksichtigt werden. Dies hilft, verlässliche und relevante Empfehlungen zu erstellen.
 
+
+
+# Ausführung Colabs
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Recomender-Systems/blob/main/1-Recommender_Systems.ipynb)
+
+
 # Ergbnisse
 
 Nach der Ausführung des Codes erhalten Sie eine Liste von Filmen, die in Bezug auf die Nutzerbewertungen am ähnlichsten zu einem ausgewählten Film (z.B. "Star Wars" oder "Liar Liar") sind. Diese Liste zeigt die Korrelationen und die Anzahl der Bewertungen, wodurch Sie nachvollziehen können, welche Filme von den Nutzern ähnlich bewertet wurden. Das einfache Empfehlungssystem gibt somit Empfehlungen basierend auf der Ähnlichkeit der Nutzerbewertungen ab.
 
 ![image](https://github.com/user-attachments/assets/97233b21-3375-4dda-91c7-02ca1e4734c2)
 
-
-# Binder Badge
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/FranjoHHZ/Recomender-Systems/HEAD?labpath=1-Recommender_Systems.ipynb)
-
-# Ausführung Colabs
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Recomender-Systems/blob/main/1-Recommender_Systems.ipynb)
