@@ -29,7 +29,8 @@ Um sinnvolle Empfehlungen zu geben, wird die Liste der ähnlichen Filme gefilter
 
 
 # Ausführung Colabs
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Recomender-Systems/blob/main/1-Recommender_Systems.ipynb)
+
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FranjoHHZ/Recomender-Systems/blob/main/1_Recommender_Systems.ipynb)
 
 Klicken Sie auf den folgenden Badge, um das Projekt direkt auf Google Colab zu öffnen. Bitte führen Sie dort durch das Drücken "Shift"+ "Enter" die Befehle aus oder klicken Sie auf den Reiter "Laufzeit" und dann auf "Alles ausführen".
 
